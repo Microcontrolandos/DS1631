@@ -1,5 +1,5 @@
 /* 
-	DS1631.h - High-Precision Digital Thermometer and Thermostat for MikroC PRO PIC
+	DS1631.h - High-Precision Digital Thermometer and Thermostat library for MikroC PRO PIC
 	Author: Tiago Melo
 	Blog: microcontrolandos.blogspot.com.br
 */
